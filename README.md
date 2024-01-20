@@ -32,7 +32,7 @@ Fitur OnyetCBT:
 http://yourdomainroot/mobile_login.php
 
 user		: admin
-password	: adminpassword
+password	: admin
 ```
 
 ## 🧬 Proses Pemasangan
